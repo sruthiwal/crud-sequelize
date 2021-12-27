@@ -1,1 +1,1 @@
-# crud-sequelize
+# books-sequelize
